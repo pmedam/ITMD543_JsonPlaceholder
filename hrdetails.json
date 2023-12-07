@@ -1,1 +1,23 @@
-
+[
+  {
+    "Name": "John Doe",
+    "PhoneNumber": "+1234567890",
+    "Email": "john.doe@example.com",
+    "Contact": "Preferred",
+    "Message": "Hello, I'm interested in your services."
+  },
+  {
+    "Name": "Jane Smith",
+    "PhoneNumber": "+9876543210",
+    "Email": "jane.smith@example.com",
+    "Contact": "Alternate",
+    "Message": "I have a question about your products."
+  },
+  {
+    "Name": "Bob Johnson",
+    "PhoneNumber": "+5555555555",
+    "Email": "bob.johnson@example.com",
+    "Contact": "Preferred",
+    "Message": "Please send me more information."
+  }
+]
